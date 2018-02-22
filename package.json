@@ -1,0 +1,20 @@
+{
+  "name": "ua-det-webpack-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.11.0"
+  },
+  "dependencies": {
+    "ua-device-detector": "^1.1.0"
+  }
+}
